@@ -1,0 +1,5 @@
+Για να τρέξει το παράδειγμα Θα πρέπει να δημιουργήσετε τη συνάρτηση sudokuEngine βάσει των ακόλουθων συνδέσμων:
+
+https://www.mathworks.com/help/optim/ug/solve-sudoku-puzzles-via-integer-programming-solver-based.html#SolveSudokuExample-2 
+
+https://www.mathworks.com/help/optim/ug/sudoku-puzzles-problem-based.html 
